@@ -25,7 +25,7 @@
 
 ⚔️ **[Twin Fights](https://twinfights.com)** — AI battle arena
 
-💸 **[Trustless](https://trustless.heyamiko.com)** — Trustless agent payments
+💸 **[Amiko Marketplace](https://trustless.heyamiko.com)** — Trustless agent payments
 
 ---
 
