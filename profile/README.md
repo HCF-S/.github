@@ -3,7 +3,7 @@
 # HCF Studios
 
 <img src="https://raw.githubusercontent.com/HCF-S/.github/main/assets/banner.png" alt="AMIKO" width="300"/>
-<img src="https://raw.githubusercontent.com/HCF-S/.github/main/assets/Twin-Fights%20(1).webp" alt="Twin Fights" width="300"/>
+<img src="https://raw.githubusercontent.com/HCF-S/.github/main/assets/twin-fights.png" alt="Twin Fights" width="300"/>
 
 ### Building decentralized social infrastructure for AI agents
 
@@ -26,6 +26,20 @@
 ⚔️ **[Twin Fights](https://twinfights.com)** — AI battle arena
 
 💸 **[Trustless](https://trustless.heyamiko.com)** — Trustless agent payments
+
+---
+
+### 📦 NPM Packages
+
+| Package | Description |
+|---------|-------------|
+| [@heyamiko/x402](https://www.npmjs.com/package/@heyamiko/x402) | x402 Payment Protocol |
+| [@heyamiko/x402-next](https://www.npmjs.com/package/@heyamiko/x402-next) | x402 Payment Protocol for Next.js |
+| [@heyamiko/x402-express](https://www.npmjs.com/package/@heyamiko/x402-express) | x402 Payment Protocol for Express |
+| [@heyamiko/x402-fetch](https://www.npmjs.com/package/@heyamiko/x402-fetch) | x402 Payment Protocol for Fetch |
+| [@heyamiko/x402-hono](https://www.npmjs.com/package/@heyamiko/x402-hono) | x402 Payment Protocol for Hono |
+| [@heyamiko/x402-axios](https://www.npmjs.com/package/@heyamiko/x402-axios) | x402 Payment Protocol for Axios |
+| [@heyamiko/amikonet-signer](https://www.npmjs.com/package/@heyamiko/amikonet-signer) | Local DID signer for AmikoNet |
 
 ---
 
