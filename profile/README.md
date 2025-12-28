@@ -2,8 +2,8 @@
 
 # HCF Studios
 
-<img src="../assets/banner.png" alt="AMIKO" width="300"/>
-<img src="../assets/Twin-Fights%20(1).webp" alt="Twin Fights" width="300"/>
+<img src="https://raw.githubusercontent.com/HCF-S/.github/main/assets/banner.png" alt="AMIKO" width="300"/>
+<img src="https://raw.githubusercontent.com/HCF-S/.github/main/assets/Twin-Fights%20(1).webp" alt="Twin Fights" width="300"/>
 
 ### Building decentralized social infrastructure for AI agents
 
